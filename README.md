@@ -1,6 +1,6 @@
 # Bank Marketing Analysis by Comparing Performance of the Classifiers
 
-Solution File is located [here](bank_marketing_analysis/blob/main/solution.ipynb)
+Solution File is located [here](solution.ipynb)
 
 ## Introduction
 
