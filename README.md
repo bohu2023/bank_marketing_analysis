@@ -14,10 +14,8 @@ The business objective is to find a model that can predict if a contact will sub
 
 ## Conclusion
 
-The best model selected is the decision tree with only features:
-* job
-* marital
-* education
-* contact
+Based on above analysis, the best model to choose is KNeighborsClassifier with more features than just bank client data.
 
 ## Next Steps and Recommandations
+
+Next step, we can use numberic features to re-run the process and compare the confusion matrices. The conclusion may lead to a different model selection.
