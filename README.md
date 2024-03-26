@@ -14,7 +14,7 @@ The business objective is to find a model that can predict if a contact will sub
 
 ## Conclusion
 
-Based on above analysis, the best model to choose is KNeighborsClassifier with more features than just bank client data.
+Based our analysis, the best model to choose is KNeighborsClassifier with more features than just bank client data.
 
 ## Next Steps and Recommandations
 
